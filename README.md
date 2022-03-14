@@ -1,5 +1,3 @@
-# RPI-Setup
-
 # Script To Create RPI
 
 ```
