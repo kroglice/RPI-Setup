@@ -5,7 +5,7 @@ sudo apt update
 sudo apt upgrade -y
 
 # Normal apps
-sudo apt install wget curl git gedit* vim nano tmux w3m htop filezilla terminator python3 python3-pip python3-virtualenv zathura sxiv pandoc tree mlocate lm-sensors code
+sudo apt install wget curl git gedit* vim nano tmux w3m htop filezilla terminator python3 python3-pip python3-virtualenv zathura sxiv pandoc tree mlocate lm-sensors code libreoffice
 
 # Vim Config
 echo "syntax enable
