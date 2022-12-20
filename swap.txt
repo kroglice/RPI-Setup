@@ -14,7 +14,7 @@ CONF_SWAPSIZE=100
 CONF_SWAPSIZE=1024
 
 # I use:
-CONF_SWAPSIZE=4096
+CONF_SWAPSIZE=2048
 
 # Once you have made the change, save the file.
 # We can now re-initialize the Raspberry Pi’s swap file by running the command below.
